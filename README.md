@@ -28,7 +28,7 @@ A lightweight, rule-based fraud detection module for transaction monitoring. Thi
 
    ```bash
 
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/akumu-96/retail-radar.git
 
    ```
 
@@ -187,3 +187,4 @@ Contributions are welcome! Open an issue or submit a PR for:
 ## License
 
 MIT
+
